@@ -40,9 +40,12 @@ When 10 seconds are remaining in countdown, timer progress ring turns red and st
 
 ### Focus Time Over
 
-When focus time is over, a window popup alerts the user. And 'Start Break' button appears.
+When focus time is over, a window popup alerts the user. And 'Start Break' button appears on dismissing the alert.
 
 ![Alt-text](/SS/focus_ended.png?raw=true)
+
+![Alt-text](/SS/break_home.png?raw=true)
+
 
 
 ### Break Timer
